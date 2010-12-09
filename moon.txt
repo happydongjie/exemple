@@ -1,0 +1,2 @@
+#my new repository
+git@github.com:yaomoon/yao.git
